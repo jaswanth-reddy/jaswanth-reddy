@@ -33,7 +33,7 @@ Feel free to take a look at my __GitHub__ overview. This gives a good understand
 ![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaswanth-reddy&show_icons=true&theme=radical)
 
 [twitter]: https://twitter.com/Jas_jigglipuff
-[linkedin]: https://github.com/jaswanth-reddy
+[linkedin]: https://www.linkedin.com/in/jas1th/
 [Medium]: https://medium.com/@jaswanthreddykankanala
 
 
