@@ -69,7 +69,7 @@ I'm doing my __Graduation__ in CS at __University of Florida__. With 3.5 years o
 
 <h3 align="left">Big Data Technologies:</h3>
 <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> 
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/Spark.png" alt="spark" width="40" height="40"/> </a> 
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/spark.png" alt="spark" width="40" height="40"/> </a> 
 <a href="https://hbase.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/Hbase.png" alt="hbase" width="40" height="40"/> </a> 
 
 
@@ -88,12 +88,12 @@ I'm doing my __Graduation__ in CS at __University of Florida__. With 3.5 years o
 
 <h3 align="left">WorkFlows:</h3>
 <a href="https://docs.snowflake.com/en/user-guide/warehouses.html" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/LogicApps.png" alt="Logic Apps" width="40" height="40"/> </a> 
-<a href="https://powerautomate.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/PowerAutomate.png" alt="Power Automate" width="40" height="40"/> </a> 
+<a href="https://powerautomate.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/PowerAutomate.jpeg" alt="Power Automate" width="40" height="40"/> </a> 
 
 
 
 <h3 align="left">Tools:</h3>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/Intellij.png" alt="IntelliJ" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/Intellij.jpeg" alt="IntelliJ" width="40" height="40"/> </a> 
 <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/salesforce.png" alt="Salesforce" width="40" height="40"/> </a> 
 <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Images/Databricks.png" alt="Databricks" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
