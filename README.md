@@ -1,11 +1,12 @@
 # Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75305&size=30&center=true&vCenter=true&width=500&height=70&lines=I'm+Jaswanth+Reddy+K;Data+Engineer;+BI+Developer)](https://git.io/typing-svg)
 
-
-
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/medium-%231DA1A2.svg?&style=for-the-badge&logo=medium&logoColor=black" />][Medium]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/jas_jigglipuff" target="blank"><img align="center" src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/twitter.svg" alt="jas_jigglipuff" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jas1th" target="blank"><img align="center" src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/LinkedIn.svg" alt="jas1th" height="30" width="40" /></a>
+<a href="https://medium.com/@jaswanthreddykankanala" target="blank"><img align="center" src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Medium.png" alt="jaswanthreddykankanala" height="30" width="40" /></a>
+</p>
 
 
 ## Short Intro about me ...  
