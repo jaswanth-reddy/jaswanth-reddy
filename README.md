@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/jas_jigglipuff" target="blank"><img align="center" src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/twitter.svg" alt="jas_jigglipuff" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jas1th" target="blank"><img align="center" src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/LinkedIn.svg" alt="jas1th" height="30" width="40" /></a>
+<a href="https://medium.com/@jaswanthreddykankanala" target="blank"><img align="center" src="https://github.com/jaswanth-reddy/jaswanth-reddy/blob/main/Medium.png" alt="jaswanthreddykankanala" height="30" width="40" /></a>
 </p>
 
 
