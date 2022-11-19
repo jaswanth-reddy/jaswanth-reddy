@@ -11,7 +11,7 @@
 
 ## Short Intro about me ...  
 
-I'm doing my __Graduation__ in CS at __University of Florida__. With 3.5 years of experience designing, developing end-to-end data pipelines for Pharmaceutical and Insurance based companies. Currently working as graduate software developer at UF Innovate in one of the University startups on C# applications for Revit 3D models and CI& CD pipelines for seamless integration and deployment across multiple platforms.
+I'm doing my __Graduation__ in CS at __University of Florida__. With 3.5 years of experience designing, developing end-to-end data pipelines for Pharmaceutical and Insurance based companies. Currently working as Graduate Software Developer at UF Innovate in one of the University startups on C# applications for Revit 3D models and CI& CD pipelines for seamless integration and deployment across multiple platforms.
 
 1. Data Literate and Insights-oriented developer with over 3.5 years of experience as Data Engineer & BI Developer, this enabled me craft innovative solutions to stakeholders in almost real-time interval.
 
